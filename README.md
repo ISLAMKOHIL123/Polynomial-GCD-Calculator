@@ -3,7 +3,7 @@
 An interactive web app for computing the GCD of polynomials and modular inverses
 in finite fields Fₚ[x], with step-by-step algorithm visualization.
 
-🔗 **Live demo**: https://tparmo2.vercel.app
+🔗 **Live demo**: *(open index.html in any browser)*
 
 ## What it does
 
